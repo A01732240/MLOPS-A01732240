@@ -1,0 +1,12 @@
+# Python 3.13
+# Versiones exactas con las que se generaron las corridas del experimento
+mlflow==3.16.1
+scikit-learn==1.9.1
+pandas==3.0.6
+numpy==2.5.3
+matplotlib==3.11.2
+skops==0.16.0
+
+# Solo para el notebook de exploración (churn_telco_eda.ipynb)
+seaborn==0.13.2
+scipy==1.18.1
